@@ -158,7 +158,7 @@ FROM bronze.erp_cust_az12;
 
 
 -- ============================================================================
--- 4) CARGA TABLA: silver.erp_loc_a101
+-- 5) CARGA TABLA: silver.erp_loc_a101
 -- ============================================================================
 INSERT INTO silver.erp_loc_a101 (
 	cid,
@@ -176,7 +176,7 @@ FROM bronze.erp_loc_a101;
 
 
 -- ============================================================================
--- 4) CARGA TABLA: silver.erp_px_cat_g1v2
+-- 6) CARGA TABLA: silver.erp_px_cat_g1v2
 -- ============================================================================
 INSERT INTO silver.erp_px_cat_g1v2 (
 	id,
